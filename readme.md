@@ -1,7 +1,7 @@
 <div align=center>
 
 <img src="./public/media/logo.svg" height="60px">
-<h1>Lunaar V7</h1>
+<h1>Lunaar </h1>
 <h4 align="center">the best unblocked proxy.</h4>
 
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/1dh3v.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
